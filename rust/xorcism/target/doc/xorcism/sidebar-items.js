@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Xorcism","A munger which XORs a key with some data"]]});

@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"xorcism":{"doc":"","i":[[3,"Xorcism","xorcism","A munger which XORs a key with some data",null,null],[11,"new","","Create a new Xorcism munger from a key",0,[[],["xorcism",3]]],[11,"munge_in_place","","XOR each byte of the input buffer with a byte from the …",0,[[]]],[11,"munge","","XOR each byte of the data with a byte from the key.",0,[[]]],[11,"from","","",0,[[]]],[11,"into","","",0,[[]]],[11,"to_owned","","",0,[[]]],[11,"clone_into","","",0,[[]]],[11,"borrow","","",0,[[]]],[11,"borrow_mut","","",0,[[]]],[11,"try_from","","",0,[[],["result",4]]],[11,"try_into","","",0,[[],["result",4]]],[11,"type_id","","",0,[[],["typeid",3]]],[11,"clone","","",0,[[],["xorcism",3]]]],"p":[[3,"Xorcism"]]}\
+}');
+addSearchOptions(searchIndex);initSearch(searchIndex);
